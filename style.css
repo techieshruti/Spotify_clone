@@ -1,0 +1,19 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+.sidebar{
+    width: 340px;
+    height: 100vh;
+    background-color: burlywood;
+    left: 0;
+}
+
+.main-content{
+    
+    height: 100vh;
+}
